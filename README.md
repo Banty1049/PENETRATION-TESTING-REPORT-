@@ -168,7 +168,9 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 # 9. Evidences Collected
 *Screenshots collected as evidence during the activities (stored in the `screenshots/` folder):*
 
-<img width="1200" height="565" alt="Screenshot_2026-11-13_21-50-43 zenmap ip addr" src="https://github.com/user-attachments/assets/c3a3582d-474c-424d-b121-c24c5fb60157" />
+"C:\Users\user\OneDrive\Pictures\Screenshots\Screenshot (113).png"
+"C:\Users\user\OneDrive\Pictures\Screenshots\Screenshot (114).png"
+
 
 
 
