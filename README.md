@@ -168,8 +168,7 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 # 9. Evidences Collected
 *Screenshots collected as evidence during the activities (stored in the `screenshots/` folder):*
 
-"C:\Users\user\OneDrive\Pictures\Screenshots\Screenshot (113).png"
-"C:\Users\user\OneDrive\Pictures\Screenshots\Screenshot (114).png"
+"C:\Users\user\OneDrive\Desktop\internetwalks projects\Screenshot_2026-11-12_15-56-09.png whois  week 2"
 
 
 
