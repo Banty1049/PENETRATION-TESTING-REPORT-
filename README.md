@@ -168,7 +168,24 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 # 9. Evidences Collected
 *Screenshots collected as evidence during the activities (stored in the `screenshots/` folder):*
 
-"C:\Users\user\OneDrive\Desktop\internetwalks projects\Screenshot_2026-11-14_08-38-53.png"
+<img width="970" height="565" alt="Screenshot_2026-11-14_08-38-53" src="https://github.com/user-attachments/assets/9ee207ce-c5e0-4818-8e19-1c5ea26b6c5b" />
+
+<img width="970" height="565" alt="Screenshot_2026-11-14_08-40-03" src="https://github.com/user-attachments/assets/59a35941-bdd7-4110-8486-13797fc127ef" />
+
+<img width="970" height="565" alt="Screenshot_2026-11-14_08-41-44" src="https://github.com/user-attachments/assets/a5eb48d5-c985-48d7-bbab-1da5e58a9f76" />
+
+<img width="970" height="565" alt="Screenshot_2026-11-14_08-45-08" src="https://github.com/user-attachments/assets/b6513c0e-4646-49dc-810e-49b4963e6537" />
+
+<img width="970" height="565" alt="Screenshot_2026-11-14_08-51-31" src="https://github.com/user-attachments/assets/72a170e4-c30f-4149-b2e8-186efd61e27a" />
+
+<img width="862" height="516" alt="week 2 wafw00f" src="https://github.com/user-attachments/assets/5b1c42ed-2d14-4cfc-ae45-2e0e7de707d9" />
+
+<img width="1200" height="565" alt="Screenshot_2026-11-13_21-50-43 zenmap ip addr" src="https://github.com/user-attachments/assets/edd3af25-7327-4daa-aa3b-2a7155bc5d15" />
+
+<img width="1200" height="565" alt="Screenshot_2026-11-13_21-53-30 topology" src="https://github.com/user-attachments/assets/a569aa07-9709-4ca0-92d1-d243be2188b2" />
+
+
+
 
 
 
